@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="My Test Automation Suite">
+
+	<test name="My Applications Test Cases">
+		<classes>
+			<class name="TestNGSessions.FreeCrmTest"></class>
+			<class name="TestNGSessions.FacebookTest"></class>
+			<class name="TestNGSessions.GoogleTest"></class>
+
+
+		</classes>
+	</test>
+</suite>

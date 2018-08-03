@@ -1,0 +1,5 @@
+2018-07-27 07:58:28,537  INFO [main] GenerateLogs:16 - launching browser
+2018-07-27 07:58:33,274  INFO [main] GenerateLogs:19 - google url has been launched
+2018-07-27 07:58:33,280  INFO [main] GenerateLogs:24 - title value is: Google
+2018-07-27 07:58:33,281  INFO [main] GenerateLogs:28 - Correct title is Google and test cases is passed
+2018-07-27 07:58:33,386  INFO [main] GenerateLogs:35 - browser is closed
